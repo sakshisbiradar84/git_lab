@@ -1,3 +1,2 @@
-my first git lab
-hello
+my first lab
 
